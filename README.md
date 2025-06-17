@@ -67,5 +67,7 @@ This project was created by **Avneet Kaur**, a passionate developer and student 
 
 - 💻 Experienced with: React.js, Python, Node.js, and more
 - 🌱 Currently exploring: AI applications in real-world projects
-- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/avneet-kaur-2/)
-- 🌐 Portfolio: [avneet-kaur.framer.website](https://avneet-kaur.framer.website)
+
+Feel free to connect with me:
+- 🌐 [Portfolio](https://avneet-kaur.framer.website)
+- 💼 [LinkedIn](https://linkedin.com/in/avneet-kaur2)
