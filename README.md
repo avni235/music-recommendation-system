@@ -60,3 +60,12 @@ pip install pandas scikit-learn
 
 - This is a **content-based recommender**, so recommendations are based purely on song metadata.
 - The similarity matrix is based on TF-IDF of combined metadata (not audio content or user behavior).
+
+## 👩‍💻 About the Creator
+
+This project was created by **Avneet Kaur**, a passionate developer and student specializing in Web Development, AI/ML, and Software Engineering.
+
+- 💻 Experienced with: React.js, Python, Node.js, and more
+- 🌱 Currently exploring: AI applications in real-world projects
+- 🔗 [Connect on LinkedIn](https://www.linkedin.com/in/avneet-kaur-2/)
+- 🌐 Portfolio: [avneet-kaur.framer.website](https://avneet-kaur.framer.website)
